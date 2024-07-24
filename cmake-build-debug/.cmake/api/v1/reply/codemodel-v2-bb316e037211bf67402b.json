@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Test_CPP_Boost",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Test_CPP_Boost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test_CPP_Boost-Debug-2b3c1a9fee0f7a13ccd3.json",
+					"name" : "Test_CPP_Boost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test_Link_LibBinary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test_Link_LibBinary-Debug-eee4e8847009cc40256f.json",
+					"name" : "Test_Link_LibBinary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Timer1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Timer1-Debug-32d12c6b45e6c0082fff.json",
+					"name" : "Timer1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Timer2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Timer2-Debug-b0019a7827c13cf36bd2.json",
+					"name" : "Timer2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Timer3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Timer3-Debug-6029af264872c6c341ff.json",
+					"name" : "Timer3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ruochen/Test_CPP_Boost/cmake-build-debug",
+		"source" : "/home/ruochen/Test_CPP_Boost"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
